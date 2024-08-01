@@ -1,16 +1,16 @@
-### Hi there 👋, Andleeb
-#### Development and design
+
 
 ![Development and design](https://github.com/andleeb4898/andleeb4898/blob/main/banner.png)
 
+# Andleeb
 
 
 Hi, I'm Andleeb from Pakistan. I'm a Software Engineer , Front-End Developer, and a Designer. I really enjoy learning new languages and frameworks like React.js and Node.js. I also love wireframing and graphic design in general.
-![Andleeb  GitHub stats](https://github-readme-stats.vercel.app/api?username=andleeb4898&theme=dark&show_icons=true)
 
 
 
-Hi, I'm Andleeb from Pakistan. I'm a Software Engineer , Front-End Developer, and a Designer. I really enjoy learning new languages and frameworks like React.js and Node.js. I also love wireframing and graphic design in general.
+
+## Skills and Experience
 
 Skills:  REACT / JS / HTML / CSS/Boostrap/ C++
 
