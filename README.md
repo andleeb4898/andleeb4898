@@ -2,7 +2,7 @@
 
 ![Development and design](https://github.com/andleeb4898/andleeb4898/blob/main/banner.png)
 
-[![Andleeb Ishfaq profile views](https://u8views.com/api/v1/github/profiles/121122849/views/day-week-month-total-count.svg)]
+<a href="https://u8views.com/github/andleeb4898"><img src="https://u8views.com/api/v1/github/profiles/121122849/views/day-week-month-total-count.svg"></a>
 
 
 # Andleeb
