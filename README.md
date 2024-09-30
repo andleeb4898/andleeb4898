@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hi there, I'm <a href="https://linkedin.com/in/andleeeb-ishfaq-859a00237">Andleeb Ishfaq</a> </h1>
-<img src="https://github.com/andleeb4898/andleeb4898/blob/main/laptop.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://andleeb4898.github.io/andleebishfaq-portfolio/">Portfolio</a> -
@@ -23,6 +23,7 @@
 ## Skills and Experience
 
 Skills:  REACT / JS / HTML / CSS/Boostrap/ C++
+<img src="https://github.com/andleeb4898/andleeb4898/blob/main/laptop.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🔭 I’m currently working on self learning 
 
